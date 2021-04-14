@@ -34,7 +34,7 @@
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
-<p align = "center">
+<p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=aayushjain7&show_icons=true&include_all_commits=true&theme=bear&line_height=27">
 </p>
 </details>
