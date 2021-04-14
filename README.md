@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush Jain</h1>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" border-radius="20%" />
 <h3 align="left">A Passionate & Self-Taught 👨‍💻Full-Stack Developer.</h3>
+<h5>My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayuhsjain7&label=Profile%20views&color=0e75b6&style=flat" alt="aayushjain7" /> </p>
 <a href="https://www.linkedin.com/in/aayush-jain7"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="40" /></a>
