@@ -11,13 +11,23 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+ <img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true" alt="python" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
  <img src="http://3con14.biz/code/_data/js/intro/js-logo.png" alt="javascript" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+ <img src="https://github.com/MarioTerron/logo-images/blob/master/logos/npm.png" alt="npm" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png" alt="react" width="40" height="40"/>
+ <img src="https://github.com/MarioTerron/logo-images/blob/master/logos/redux.png" alt="redux" width="40" height="40"/>
+
+ <img src="https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png" alt="express" width="40" height="40"/>
+ <img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_postgresql.png?raw=true" alt="postgresql" width="40" height="40"/>
+ <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-128.png" alt="firebase" width="40" height="40"/>
+ <img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_heroku.png?raw=true" alt="heroku" width="40" height="40"/>
+ <img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_flask.png?raw=true" alt="flask" width="40" height="40"/>
+
 </p>
 
 <details open>
