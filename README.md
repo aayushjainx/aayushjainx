@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayuhsjain7&label=Profile%20views&color=0e75b6&style=flat" alt="aayushjain7" /> </p>
 
-details open>
+<details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
