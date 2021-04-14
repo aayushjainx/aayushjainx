@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayush Jain</h1>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" border-radius="20%" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="270"/>
 <h3 align="left">A Passionate & Self-Taught 👨‍💻Full-Stack Developer.</h3>
 <h5>My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.</h5>
 
