@@ -21,6 +21,7 @@
  <img src="https://github.com/MarioTerron/logo-images/blob/master/logos/npm.png" alt="npm" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png" alt="react" width="40" height="40"/>
  <img src="https://github.com/MarioTerron/logo-images/blob/master/logos/redux.png" alt="redux" width="40" height="40"/>
+ <img src="https://camo.githubusercontent.com/45612d366a69669f27330ea002140a7753e6993bfaaf874cf8435319a908dfd2/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f38302f3030303030302f6e6f64656a732e706e67" alt="redux" width="40" height="40"/>
 
  <img src="https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png" alt="express" width="40" height="40"/>
  <img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_postgresql.png?raw=true" alt="postgresql" width="40" height="40"/>
