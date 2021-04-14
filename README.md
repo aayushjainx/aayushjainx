@@ -28,7 +28,7 @@
  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
-
+  <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="mongodb" width="40" height="40"/>
 </p>
 
 <details open>
