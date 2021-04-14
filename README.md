@@ -29,6 +29,7 @@
  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/>
+  <img src="https://github.com/detain/svg-logos/blob/master/svg/bootstrap-4.svg" alt="angular" width="40" height="40"/>
 </p>
 
 <details open>
