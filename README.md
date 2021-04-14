@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayuhsjain7&label=Profile%20views&color=0e75b6&style=flat" alt="aayushjain7" /> </p>
 <a href="https://www.linkedin.com/in/aayush-jain7"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/aayushjain7"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/github-logo.png" width="40" /></a>
-<a href="https://www.facebook.com/laymanbrother.19/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/facebook.png" width="40" /></a>
-<a href="mailto:jaayush014@gmail.com"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/google-plus.png" width="40" /></a>
-<a href="https://www.instagram.com/aayush.jain7"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" width="40" /></a>
+<a href="https://www.facebook.com/aayush.jain.001/"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" width="40" /></a>
+<a href="mailto:jaayush014@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" /></a>
+<a href="https://www.instagram.com/aayush.jain7"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
