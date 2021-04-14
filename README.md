@@ -24,7 +24,7 @@
  <img src="https://camo.githubusercontent.com/45612d366a69669f27330ea002140a7753e6993bfaaf874cf8435319a908dfd2/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f38302f3030303030302f6e6f64656a732e706e67" alt="redux" width="40" height="40"/>
  <img src="https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png" alt="express" width="40" height="40"/>
  <img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_postgresql.png?raw=true" alt="postgresql" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
  <img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_heroku.png?raw=true" alt="heroku" width="40" height="40"/>
  <img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_flask.png?raw=true" alt="flask" width="40" height="40"/>
 
