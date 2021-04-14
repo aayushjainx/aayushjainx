@@ -27,7 +27,7 @@
  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
  <img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_flask.png?raw=true" alt="flask" width="40" height="40"/>
-  <img src=" https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
 
 </p>
 
