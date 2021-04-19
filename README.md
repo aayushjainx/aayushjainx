@@ -19,7 +19,7 @@
   <img src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/redux.svg" alt="redux" width="45" height="40"/>
   <img src="http://3con14.biz/code/_data/js/intro/js-logo.png" alt="javascript" width="45" height="45"/>
   <img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true" alt="python" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="80" height="45"/>
