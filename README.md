@@ -12,13 +12,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/redux.svg" alt="redux" width="40" height="40"/>
-  <img src="http://3con14.biz/code/_data/js/intro/js-logo.png" alt="javascript" width="40" height="40"/>
-  <img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true" alt="python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="50" height="50"/>
+  <img src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/redux.svg" alt="redux" width="50" height="50"/>
+  <img src="http://3con14.biz/code/_data/js/intro/js-logo.png" alt="javascript" width="50" height="50"/>
+  <img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true" alt="python" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
