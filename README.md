@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayuhsjain7&label=Profile%20views&color=0e75b6&style=flat" alt="aayushjain7" /> </p>
 <a href="https://www.linkedin.com/in/aayush-jain7"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" /></a>
-<a href="https://github.com/aayushjain7"><img src="https://github.com/xtoolkit/Micon/blob/master/icons/webbrand/github.svg" width="40" /></a>
+<a href="https://github.com/aayushjain7"><img src="https://camo.githubusercontent.com/4133dc1cd4511d4a292b84ce10e52e4ed92569fb2a8165381c9c47be5edc2796/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f706e672f6769746875622e706e67" width="40" /></a>
 <a href="https://www.facebook.com/aayush.jain.001/"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" width="40" /></a>
 <a href="mailto:jaayush014@gmail.com"><img src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" width="40" /></a>
 <a href="https://www.instagram.com/aayush.jain7"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="40" /></a>
