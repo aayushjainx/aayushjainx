@@ -1,8 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm &lt;Aayush/&gt; </h1>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="270"/>
 <h3 align="left">A Passionate & Self-Taught 👨‍💻Full-Stack Developer.</h3>
-<h4>Learning and Improving Everyday!</h4>
-<h4> GitHub Graduate 2021 🎓</h4>
+<h4>Learning and Improving Everyday! GitHub Graduate 2021 🎓</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayuhsjain7&label=Profile%20views&color=0e75b6&style=flat" alt="aayushjain7" /> </p>
 <a href="https://www.linkedin.com/in/aayush-jain7"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" /></a>
