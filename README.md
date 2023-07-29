@@ -28,7 +28,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="45" height="45"/>
-  <img src="https://github.com/detain/svg-logos/blob/master/svg/bootstrap-4.svg" alt="angular" width="45" height="45"/>
 </p>
 
 <details open>
