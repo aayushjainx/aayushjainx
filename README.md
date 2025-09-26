@@ -1,5 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="270" />
+
 <div align="center">
   <img src="https://img.shields.io/badge/💻-Full_Stack_Developer-eb1809?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🤖-AI_Enthusiast-058cfa?style=for-the-badge" />
@@ -72,8 +74,6 @@ Full-stack Software Engineer (4+ yrs) 👨‍💻 Backend & distributed systems 
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushjainx&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" height="195" width="350" /></a>
   <a href="#"><img src="https://streak-stats.demolab.com?user=aayushjainx&theme=vue-dark&hide_border=true" alt="GitHub Streak" height="195" width="350" /></a>
 </div>
-
-<br>
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=aayushjainx&style=for-the-badge&color=red" alt="Profile views" />
