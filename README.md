@@ -30,7 +30,7 @@ Full-stack Software Engineer (4+ yrs) 👨‍💻 Backend & distributed systems 
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node%20js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/Express%20js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQl-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Apollo GraphQL" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=flat-square&logo=Apollo%20GraphQL&logoColor=white" />
   <img alt="Temporal" src="https://img.shields.io/badge/Temporal-af06d1?style=flat-square&logo=temporal&logoColor=white" />
@@ -72,7 +72,9 @@ Full-stack Software Engineer (4+ yrs) 👨‍💻 Backend & distributed systems 
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushjainx&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" height="195" width="350" /></a>
   <a href="#"><img src="https://streak-stats.demolab.com?user=aayushjainx&theme=vue-dark&hide_border=true" alt="GitHub Streak" height="195" width="350" /></a>
 </div>
+
 <br>
+
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=aayushjainx&style=for-the-badge&color=red" alt="Profile views" />
 </div>
