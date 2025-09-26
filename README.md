@@ -7,26 +7,17 @@
   <img src="https://img.shields.io/badge/🎯-Always_Learning+-079605?style=for-the-badge" />
 </div>
 
-<div style="margin: 2% 0%;">
+<br>
+
 Full-stack Software Engineer (4+ yrs) 👨‍💻 Backend & distributed systems 🚀 Building scalable microservices + AI-powered workflows 🤖 Lifelong learner passionate about clean, impactful code 📈 Feel free to connect with me here:
-</div>
-<div>
-  <a href="https://www.linkedin.com/in/aayushjainx/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@aayushjainx" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://github.com/aayushjainx" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/aayushjainx/?hl=en" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:aayushjainxwork@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</div>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/aayushjainx/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://medium.com/@aayushjainx"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="https://github.com/aayushjainx"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.instagram.com/aayushjainx/?hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="mailto:aayushjainxwork@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
 
 ## 🛠️ Things I code with:
 
@@ -75,9 +66,11 @@ Full-stack Software Engineer (4+ yrs) 👨‍💻 Backend & distributed systems 
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />
 </div>
 
-<div align="center">
-  <img height='195' src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushjainx&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&height=195" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=aayushjainx&theme=vue-dark&hide_border=true&card_width=495)](https://git.io/streak-stats" alt="GitHub Streak" />
+<br>
+
+<div align="left">
+  <img height="195" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushjainx&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+  <img height="195" width="350" src="https://streak-stats.demolab.com?user=aayushjainx&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="left">
