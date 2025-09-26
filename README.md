@@ -76,7 +76,7 @@ Full-stack Software Engineer (4+ yrs) 👨‍💻 Backend & distributed systems 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushjainx&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&height=195" alt="Top Languages" />
+  <img height='195' src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushjainx&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&height=195" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com?user=aayushjainx&theme=vue-dark&hide_border=true&card_width=495)](https://git.io/streak-stats" alt="GitHub Streak" />
 </div>
 
