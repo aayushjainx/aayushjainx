@@ -11,7 +11,7 @@
 
 <br>
 
-Full-stack Software Engineer (4+ yrs) 👨‍💻 Backend & distributed systems 🚀 Building scalable microservices + AI-powered workflows 🤖 Lifelong learner passionate about clean, impactful code 📈 Feel free to connect with me here:
+Full-stack Software Engineer (4+ yrs) 👨‍💻 Backend & distributed systems 🚀 Building scalable microservices + AI-powered workflows 🤖 Lifelong learner passionate about clean, impactful code 📈 Leading Agile Teams and Product Management 🌟 Feel free to connect with me here:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/aayushjainx/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
