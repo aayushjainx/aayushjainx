@@ -57,6 +57,7 @@ Full-stack Software Engineer (4+ yrs) 👨‍💻 Backend & distributed systems 
   <img alt="Sentry" src="https://img.shields.io/badge/Sentry-black?style=flat-square&logo=Sentry&logoColor=#362D59" />
   <img alt="GenAI" src="https://img.shields.io/badge/GenAI-FF6B35?style=flat-square&logo=openai&logoColor=white" />
   <img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt%20Engineering-4A90E2?style=flat-square&logo=chatbot&logoColor=white" />
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
   <img alt="Vector DB & Search" src="https://img.shields.io/badge/Vector%20DB%20&%20Search-1E3082?style=flat-square" />
   <img alt="Convex" src="https://img.shields.io/badge/Convex-F80000?style=flat-square&logo=Oracle&logoColor=white" />
   <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" />
