@@ -32,6 +32,7 @@ Full-stack Software Engineer (4+ yrs) 👨‍💻 Backend & distributed systems 
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node%20js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/Express%20js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-109989?style=flat-square&logo=FASTAPI&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Apollo GraphQL" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=flat-square&logo=Apollo%20GraphQL&logoColor=white" />
